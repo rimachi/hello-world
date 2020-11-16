@@ -1,3 +1,4 @@
 # hello-world
 proyecto Android 
-my name is cristian
+hola mi nombre es cristian rimachi soy estudiante de ingeneria electronica 
+me juastaria aprender a programar Android 
